@@ -1,4 +1,4 @@
-# VTU-7SEM Information Science (2017 Scheme)
+# Information Science (2017 Scheme)
 VTU 7 Semester Laboratory Programs
 | No.| ML Lab (17CSL76)| No.| WT Lab (17CSL77)|
 |---|---|---|---|
