@@ -4,7 +4,7 @@ VTU 7 Semester Laboratory Programs
 |---|---|---|---|
 | 1 | Find-S Algorithm | 1 | Simple Calculator |
 | 2 | Candidate Elimination Algorithm | 2 | Squares & Cubes of numbers |
-| 3 | ID-3 Algorithm | 3 | Text Growing-Shrinking |
+| 3 | ID-3 Algorithm | 3 | Text Growing & Shrinking |
 | 4 | Back Propagation Algorithm | 4 | <ol><li>Left most vowel</li><li>Reverse of number</li></ol>|
 | 5 | Naive Bayesian Classifier | 5 | College Student Details (XML)|
 | 6 | Bayesian Text Classifier Model | 6 |Visitor count (PHP) |
