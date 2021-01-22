@@ -1,0 +1,35 @@
+<!-- Program 4b -->
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Program4b</title>
+	<script>
+		function rev(n1) {
+			n = parseInt(n1);
+			if (!isNaN(n)) {
+				var temp = 0, rev = 0;
+				while (n > 0) {
+					temp = n % 10;
+					rev = rev * 10 + temp;
+					n = n / 10;
+					n = parseInt(n);
+				}
+				document.write("The Reverse number is:", rev);
+			}
+			else
+				alert("Invalid input");
+		}
+	</script>
+</head>
+
+<body>
+	<h2>Reversing Number</h2>
+	<form>
+		<p>Enter a Number</p>
+		<input type="text" name="num" />
+		<input type="button" value="Reverse" onclick="rev(num.value)" />
+	</form>
+</body>
+
+</html>

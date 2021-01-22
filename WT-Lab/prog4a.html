@@ -1,0 +1,27 @@
+<!-- Program 4a -->
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Program 4A</title>
+	<script>
+		function vow(st) {
+			var pos;
+			pos = st.search(/[aeiouAEIOU]/);
+			if (pos < 0)
+				alert("pattern not found\n");
+			else
+				alert("position of the left most vowel is " + (pos+1));
+		}
+	</script>
+	</head>
+	<body>
+	<h1>Displaying Leftmost Vowel</h1>
+	<form>
+		<p>Enter the text</p>
+		<input type="text" id="voweltext" /> <br /> <br />
+		<input type="button" value="Click here" onclick="vow(voweltext.value);" />
+	</form>
+	</body>
+
+</html>

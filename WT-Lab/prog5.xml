@@ -1,0 +1,37 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<?xml-stylesheet type = "text/css" href = "prog5.css" ?>
+
+<vtu>
+<h4>
+Jitendra Nath Behera <br/><span>(1VI17IS035)</span>
+</h4>
+<h1> VTU Student Information </h1>
+
+<student>
+    <usn> <span> USN: </span> 1VI17IS001 </usn>
+    <name> <span> Name : </span>Mohamed </name>
+    <college> <span> College : </span>VIT </college>
+    <branch> <span> Branch : </span> ISE </branch>
+    <yoj> <span> YOJ : </span> 2017 </yoj>
+    <email> <span> email: </span> mohamed@gmail.com </email>
+</student>
+
+<student>
+    <usn> <span> USN: </span> 1VI17IS002 </usn>
+    <name> <span> Name : </span>Aadi </name>
+    <college> <span> College : </span>VIT </college>
+    <branch> <span> Branch : </span> ISE </branch>
+    <yoj> <span> YOJ : </span> 2017 </yoj>
+    <email> <span> email: </span> aadi@gmail.com </email>
+</student>
+
+<student>
+    <usn> <span> USN: </span> 1VI17IS003 </usn>
+    <name> <span> Name : </span>Anusha </name>
+    <college> <span> College : </span>VIT </college>
+    <branch> <span> Branch : </span> ISE </branch>
+    <yoj> <span> YOJ : </span> 2017 </yoj>
+    <email> <span> email: </span> anusha@gmail.com </email>
+</student>
+
+</vtu>

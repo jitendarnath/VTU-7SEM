@@ -1,0 +1,37 @@
+student { 
+    display : block;
+    padding : 10px;
+    margin : 30px; 
+    border-style : dashed;
+}
+h1 { 
+    display : block;
+    color : green;
+    font-size : 30px;
+    margin:10px;
+    text-align: center;
+}
+h4{
+    display:block;    
+    font-size : 50px;
+    color: Orange;
+    text-align:center;
+    margin:10px;
+}
+h4 span{    
+    font-size : 50px;
+}
+vtu { 
+    display : block;
+    border-style : solid;
+    margin:20px;
+}
+usn,name,college,branch,yoj,email { 
+    display : block;
+    color : red;
+    font-size : 20px;
+}
+span { 
+    color : blue;
+    font-size : 20px;
+}
