@@ -1,6 +1,6 @@
 # Information Science (2017 Scheme)
 VTU 7 Semester Laboratory Programs
-| No.| ML Lab (17CSL76)| No.| WT Lab (17CSL77)|
+| No.| [ML Lab (17CSL76)](https://drive.google.com/file/d/1QhbsHqzXKsKuX7aRTyOOxs1_N8288TDI/view?usp=sharing) | No.| [WT Lab (17CSL77)](https://drive.google.com/file/d/13b7IgNAjNJyMX_mH9dy4hm5qPhS9S_aZ/view?usp=sharing)|
 |---|---|---|---|
 | 1 | Find-S Algorithm | 1 | Simple Calculator |
 | 2 | Candidate Elimination Algorithm | 2 | Squares & Cubes of numbers |
